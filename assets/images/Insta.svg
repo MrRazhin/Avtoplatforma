@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="26" viewBox="0 0 27 26">
+  <g id="Insta" transform="translate(-611 -3949)">
+    <g id="Прямоугольник_40" data-name="Прямоугольник 40" transform="translate(611 3949)" fill="#fff" stroke="#2c2c2c" stroke-width="1.5">
+      <rect width="27" height="26" rx="7" stroke="none"/>
+      <rect x="0.75" y="0.75" width="25.5" height="24.5" rx="6.25" fill="none"/>
+    </g>
+    <g id="Эллипс_7" data-name="Эллипс 7" transform="translate(618 3956)" fill="#fff" stroke="#2c2c2c" stroke-width="2">
+      <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+      <circle cx="6.5" cy="6.5" r="5.5" fill="none"/>
+    </g>
+    <g id="Эллипс_8" data-name="Эллипс 8" transform="translate(631 3954)" fill="#fff" stroke="#2c2c2c" stroke-width="1.5">
+      <circle cx="1.5" cy="1.5" r="1.5" stroke="none"/>
+      <circle cx="1.5" cy="1.5" r="0.75" fill="none"/>
+    </g>
+    <g id="Эллипс_9" data-name="Эллипс 9" transform="translate(632 3955)" fill="#fff" stroke="#2c2c2c" stroke-width="1.5">
+      <circle cx="0.5" cy="0.5" r="0.5" stroke="none"/>
+      <circle cx="0.5" cy="0.5" r="0.25" fill="none"/>
+    </g>
+  </g>
+</svg>
